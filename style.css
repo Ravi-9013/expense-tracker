@@ -1,0 +1,13 @@
+
+.form-control,.form-select {
+    background-color:steelblue;
+    min-height: 50px;
+    border: 1px solid black;}
+    #myBtn{
+        background-color:darkorange;
+        font-weight: bolder;
+    }
+    .input-group-text {
+        background-color:aquamarine;
+        font-weight: bolder;
+    }
